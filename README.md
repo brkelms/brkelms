@@ -13,11 +13,9 @@ I'm Burak from Turkey. I am currently unemployed. I love to write new and creati
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 * ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=brkelms.brkelms)](#)
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkelms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brkelms&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2">
+
 
 ## Contact
 
@@ -33,6 +31,9 @@ I'm Burak from Turkey. I am currently unemployed. I love to write new and creati
 <a href="https://github.com/brkelms">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a> 
+
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=brkelms.brkelms)](#)
 
 
 
