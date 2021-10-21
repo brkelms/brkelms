@@ -1,7 +1,12 @@
 # Hi there, I'm Burak 👋
 ![](https://img.shields.io/badge/Developer-Full%20Stack%20%2F%20Backend%20%2F%20Frontend%20-blue)
 
-I'm Burak from Turkey. I am currently unemployed. I love to write new and creative software and I develop myself for it. IoT devices really excite me. Apart from that, I enjoy being interested in philosophy and literature.
+<details>
+  <summary>:point_right: About Me</summary>
+  I'm Burak from Turkey. I am currently unemployed. I love to write new and creative software and I develop myself for it. IoT devices really excite me. Apart from that, I enjoy being interested in philosophy and literature.
+  />
+
+</details>
 
 ## Skills and Experience
 * ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -13,8 +18,7 @@ I'm Burak from Turkey. I am currently unemployed. I love to write new and creati
 * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 * ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkelms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brkelms&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brkelms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
 ## Contact
