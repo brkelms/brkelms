@@ -19,7 +19,6 @@
 * ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=brkelms&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkelms&layout=compact)]
 
 
 ## Contact
