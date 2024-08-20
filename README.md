@@ -3,7 +3,7 @@
 
 <details>
   <summary>:point_right: About Me</summary>
-  I'm Burak from Turkey. I am currently unemployed. I love to write new and creative software and I develop myself for it. IoT devices really excite me. Apart from that, I enjoy being interested in philosophy and literature.
+  I'm Burak from Turkey.  I love to write new and creative software and I develop myself for it. IoT devices really excite me. Apart from that, I enjoy being interested in philosophy and literature.
   />
 
 </details>
